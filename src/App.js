@@ -8,7 +8,7 @@ function App() {
   return (
     <>
 
-      <div className="App">
+      <div className="App beautify">
         <div class="beauty">
           <h1>SORTING ALGO</h1>
           <h2></h2>
